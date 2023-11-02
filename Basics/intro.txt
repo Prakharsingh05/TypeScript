@@ -15,4 +15,10 @@ This type of analysis focuses on catching errors or potential problems early in 
 
 -typescipt is a developmenttool  , our project still runs in javascript
 
-- 
+- Now the way how we are going to start with the TypeScript and the way how we
+  use it in the projects are two different installation of the TypeScript. The first one is a global
+
+- But when you're going to use TypeScript in a project, maybe react project or
+  Angular project, they're an additional TypeScript config file is required so that you can address what
+  kind of settings you want, what kind of things you don't want. So there will be a two different installation.
+
