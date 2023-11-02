@@ -1,5 +1,18 @@
+-TypeSccript is superset of javascript  , everything which can be done in javascript is also can be done in typescript with a lot more to offer
+
+- typescipt is all about type Safety
+
+- what typescript does ?
+- it does Static checking - the statci cheching means that whenever we are writing the code , the syntax if the language is constantly
+  being analyzed by he IDE's .
+
+- what is static checking?
+Static checking is a software quality assurance method where the source code is checked without executing the program.
+This type of analysis focuses on catching errors or potential problems early in the development process, thereby reducing the likelihood of costly and time-consuming fixes.
 
 
-TypeSccript is superset of javascript
-everything which can be done in javascript is also can be done in typescript with a lot more to offer
+-typescript is transpiled into the javascript 
 
+-typescipt is a developmenttool  , our project still runs in javascript
+
+- 
