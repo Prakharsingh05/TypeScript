@@ -1,3 +1,5 @@
 
 
 TypeSccript is superset of javascript
+everything which can be done in javascript is also can be done in typescript with a lot more to offer
+
